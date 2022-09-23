@@ -25,5 +25,5 @@ This project is hosted on netlify
 - How to use `flex-property`
 - How to use position
 - How to do padding
-<!-- 
- ## [Live-Link](https://food-restaurant-home-page02.netlify.app/) of the project -->
+
+ ## [Live-Link](https://law-home-page03.netlify.app/) of the project
